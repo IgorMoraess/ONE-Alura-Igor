@@ -12,7 +12,7 @@
 
 <div align="center" >
      <img width="600" heigth="400" src="https://raw.githubusercontent.com/IgorMoraess/ONE-Alura-Igor/main/assets/img/01.PNG">
-     <img width="600" heigth="400" src="https://raw.githubusercontent.com/IgorMoraess/ONE-Alura-Igor/main/assets/img/02.PNG">
+     <img width="600" heigth="400" src="https://raw.githubusercontent.com/IgorMoraess/ONE-Alura-Igor/main/assets/img/challenger1.PNG">
 
 </div>
 
@@ -31,6 +31,9 @@ O resultado deve ser exibido na tela.
   
 # Responsividade para telas 
 
+<img width="300" heigth="733" src="https://raw.githubusercontent.com/IgorMoraess/ONE-Alura-Igor/main/assets/img/375px.PNG">
+<img width="300" heigth="733" src="https://raw.githubusercontent.com/IgorMoraess/ONE-Alura-Igor/main/assets/img/challengerone375px.PNG">
+<img width="300" heigth="733" src="https://raw.githubusercontent.com/IgorMoraess/ONE-Alura-Igor/main/assets/img/home375px.PNG">
 
 </div>
    
