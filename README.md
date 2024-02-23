@@ -31,9 +31,9 @@ O resultado deve ser exibido na tela.
   
 # Responsividade para telas 
 
-<img width="300" heigth="733" src="https://raw.githubusercontent.com/IgorMoraess/ONE-Alura-Igor/main/assets/img/375px.PNG">
-<img width="300" heigth="733" src="https://raw.githubusercontent.com/IgorMoraess/ONE-Alura-Igor/main/assets/img/challengerone375px.PNG">
-<img width="300" heigth="733" src="https://raw.githubusercontent.com/IgorMoraess/ONE-Alura-Igor/main/assets/img/home375px.PNG">
+<img width="250" heigth="733" src="https://raw.githubusercontent.com/IgorMoraess/ONE-Alura-Igor/main/assets/img/375px.PNG">
+<img width="250" heigth="733" src="https://raw.githubusercontent.com/IgorMoraess/ONE-Alura-Igor/main/assets/img/challengerone375px.PNG">
+<img width="250" heigth="733" src="https://raw.githubusercontent.com/IgorMoraess/ONE-Alura-Igor/main/assets/img/home375px.PNG">
 
 </div>
    
